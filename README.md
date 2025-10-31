@@ -18,11 +18,6 @@ Open a terminal in the project directory and run:
 npm install
 ```
 
-Or if you're using bun:
-```bash
-bun install
-```
-
 ## Running the Application
 
 ### Development Mode
